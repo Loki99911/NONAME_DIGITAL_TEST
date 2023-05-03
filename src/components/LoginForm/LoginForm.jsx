@@ -48,6 +48,8 @@ const LoginForm = () => {
     }
   };
 
+  console.log(emailID);
+  
   return (
     <FormLayout>
       <p>You can log in with your Google Account:</p>
