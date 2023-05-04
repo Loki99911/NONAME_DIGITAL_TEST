@@ -48,7 +48,6 @@ const LoginForm = () => {
     }
   };
 
-  console.log(emailID);
   
   return (
     <FormLayout>
